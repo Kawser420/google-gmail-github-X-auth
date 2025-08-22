@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "firebase": "^10.5.2",
+    "firebase": "^12.1.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
@@ -29,5 +29,18 @@
     "tailwindcss": "^3.3.0",
     "typescript": "^5.0.2",
     "vite": "^4.4.5"
-  }
+  },
+  "description": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.",
+  "main": "postcss.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kawser420/google-gmail-github-X-auth.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kawser420/google-gmail-github-X-auth/issues"
+  },
+  "homepage": "https://github.com/Kawser420/google-gmail-github-X-auth#readme"
 }
