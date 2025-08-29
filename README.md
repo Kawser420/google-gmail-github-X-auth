@@ -25,7 +25,7 @@ A minimal, production-ready demo that shows how to integrate Firebase Authentica
 - Shows a small, opinionated code layout suitable for extensions (state management, backend token exchange, session handling).
 - Contains strict TypeScript settings to catch issues early ([tsconfig.json](tsconfig.json)).
 
-### Tech stack
+### Tech Stack
 
 - React 18 ([package.json](package.json))
 - TypeScript ([tsconfig.json](tsconfig.json))
